@@ -45,7 +45,7 @@ int main()
 
         if (board[row][col] == 'X' || board[row][col] == 'O')
         {
-            cout << "Position already taken. Try again.\n";
+            cout << "Position already taken.\n";
             continue;
         }
 
