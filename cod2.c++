@@ -26,7 +26,7 @@ int main()
         }
         else
         {
-            cout << "Correct! You guessed the number.\n";
+            cout << " ou guessed the number.\n";
         }
 
     } while (guess != number);
